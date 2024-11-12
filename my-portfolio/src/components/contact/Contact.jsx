@@ -16,10 +16,10 @@ function Contact() {
       .sendForm(
         "service_49z6vft",
         // "service_49z6vft", //(aayushtimalsina2@gmail.com)
-        "template_ljanetf",
+        "template_b6xshkv",
         // "template_218yy5n",
         form.current,
-        "tWtKYEDPBvF_bxa0G"
+        "FvJ-mBQak7NEp7yyc"
         // form.current,
         // "1GAhb9nuvEBc-gMfR"
       )
