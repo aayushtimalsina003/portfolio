@@ -14,8 +14,8 @@ function Contact() {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_6z8m6we",
-        // "service_dm3vq2o", //(prashant20600310@gmail.com)
+        "service_49z6vft",
+        // "service_49z6vft", //(aayushtimalsina2@gmail.com)
         "template_ljanetf",
         // "template_218yy5n",
         form.current,

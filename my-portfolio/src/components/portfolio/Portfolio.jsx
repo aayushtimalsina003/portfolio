@@ -23,7 +23,7 @@ const data = [
     id: 3,
     Image: movie,
     title: "Movie App",
-    github: "git@github.com:Prashant8Khatiwada/movie.git",
+    github: "git@github.com:Aayush-Timalsina/movie.git",
     demo: "https://web-movie-app.netlify.app/",
   },
 ];
