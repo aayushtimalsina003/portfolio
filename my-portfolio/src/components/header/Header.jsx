@@ -7,7 +7,7 @@ function Header() {
     <header>
       <div className="container header_container">
         <h5>Hello I'm</h5>
-        <h1 className="bounce">Aayush Timalsina</h1>
+        <h1 className="continuous-typewriter">Aayush Timalsina</h1>
         <h5 className="text-light">Frontend Developer</h5>
         <CTA />
         <HeaderSocials />
